@@ -1,0 +1,6 @@
+{
+  "name": "Soléa",
+  "description": "An AI-driven skincare ecosystem with biometric scanning and personalized regimens.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
